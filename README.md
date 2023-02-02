@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java-Script,HTML,CSS-3**
 
-- 📫 How to reach me **girhepunjevishal@gmail.com**
+<!-- - 📫 How to reach me **girhepunjevishal@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
