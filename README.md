@@ -56,12 +56,12 @@
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 <img src="https://img.shields.io/badge/SpringBoot-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="springboot" />
 
-<img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+
 </div>
   <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MYSQL-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="MYSQL" />
 <img src="https://img.shields.io/badge/java-593D88?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="java"/>
+    <img src = "https://img.shields.io/badge/HIBERNATE-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="HIBERNAT"/>
 
  </div>
   <div align="center"><h3 align="center">Tools</h3> 
