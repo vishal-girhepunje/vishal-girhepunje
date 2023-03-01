@@ -22,7 +22,7 @@
   
 - 👨‍💻 All of my projects are available at [https://vishal-girhepunje.github.io/](https://vishal-girhepunje.github.io/)
 
-   I love networking with people so if you want to say hi, I'll be happy to meet you more! 😊
+  <h3> I love networking with people so if you want to say hi, I'll be happy to meet you more! 😊</h3>
 
 
 <h3 align="left">Connect with me:</h3>
