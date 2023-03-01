@@ -14,7 +14,7 @@
 
 - 💬 Ask me about HTML, CSS, JavaScript, Mysql, JDBC,STS, DSA.
 
-- 📄 Know about my experiences<a href="" target="blank"> Resume<a>
+- 📄 Know about my experiences<a href="https://drive.google.com/file/d/1q7genMjcgB91u_nJ0Z5Md-lQjXHTH8MM/view?usp=share_link" target="blank"> Resume<a>
   
 - 💞️ I’m looking to collaborate on Projects
   
