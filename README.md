@@ -27,8 +27,8 @@
 
 <p width="90%" m='auto'><img width='100%'
         src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
-<h2 align="left"> 📫 Connect with me :</h2>
-<p align="center">
+
+  
 <!-- demo -->
   
   <br>
