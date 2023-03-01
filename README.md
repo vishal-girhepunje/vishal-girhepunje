@@ -25,8 +25,8 @@
   <h3> I love networking with people so if you want to say hi, I'll be happy to meet you more! 😊</h3>
 
 
-<p width="90%" m='auto'><img width='100%'
-        src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
+<!-- <p width="90%" m='auto'><img width='100%'
+        src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p> -->
 
   
 <!-- demo -->
