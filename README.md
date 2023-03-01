@@ -38,7 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-girhepunje&show_icons=true&locale=en" alt="vishal-girhepunje" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-girhepunje&" alt="vishal-girhepunje" /></p>
-  <img  src="https://media.tenor.com/sCpDkw9380sAAAAC/web-development-web.gif" height="250" width="100%"> 
+  <img  src="https://media.tenor.com/sCpDkw9380sAAAAC/web-development-web.gif" height="250" width="70%"> 
 
 
 
