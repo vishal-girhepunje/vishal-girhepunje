@@ -39,25 +39,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-girhepunje&" alt="vishal-girhepunje" /></p>
   <img  src="https://media.tenor.com/sCpDkw9380sAAAAC/web-development-web.gif" height="250" width="100%"> 
-<h1 align="center">Hi 👋, I'm Vaishnavi Chaudhari</h1>
-<h3 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishu0428&label=Profile%20views&color=0e75b6&style=flat" alt="vaishu0428" /> </p>
-<p width="100%" margin="auto" ><img  width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
-<h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="30" width="30"> About Me :</h2>
-
-
-- 🔭 I’m currently pursuing Full Stack Web Development
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **HTML, CSS, Chakra, JavaScript, React , DSA.**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FAdpHUY9EaWyTcKBbuFFwy9a0Prxcuz2/view?usp=sharing)
-
-- 💞️ I’m looking to collaborate on **Projects**
-
-- 📫 How to reach me **vaishnvischaudhari28@gmail.com**
 
 
 - ⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me.
