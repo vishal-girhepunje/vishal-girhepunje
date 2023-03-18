@@ -19,7 +19,7 @@
   
 - 💞️ I’m looking to collaborate on Projects
   
-- 📫 How to reach me girhepunjevishal@gmail.com@gmail.com
+- 📫 How to reach me girhepunjevishal@gmail.com
   
 - 👨‍💻 All of my projects are available at [https://vishal-girhepunje.github.io/](https://vishal-girhepunje.github.io/)
 
