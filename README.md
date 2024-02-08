@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vishal Girhepunje</h1>
-<h3 align="center">A passionate Java Backend developer</h3>
+<h3 align="center">Motivated and efficient Full-stack web developer with a history of education in Engineering and an interest in coding. Working with JAVA Developer</h3>
 
  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="gif" margin="0 auto" display="block" width="100%" height="400px"  object-fit="contain">
 
