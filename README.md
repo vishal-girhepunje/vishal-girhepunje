@@ -1,11 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vishal Girhepunje</h1>
-<h3 align="center">Technically core Java Developer with hands-on
-experience developing, and delivering user-centric
-software applications using Java technologies. Offering
-strong expertise in multiple programming languages,
-including JavaScript, HTML, and CSS.</h3>
+<h3 align="center">Experienced SDE Intern skilled in core Java development and proficient in JavaScript, HTML, and CSS. Contributed remotely to user-centric software projects at Nolan Edutech Private Limited, managing products, logging hours, and providing updates. Ready to leverage internship experience for impactful contributions to collaborative software development.</h3>
 
  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="gif" margin="0 auto" display="block" width="100%" height="400px"  object-fit="contain">
 
@@ -20,10 +16,10 @@ including JavaScript, HTML, and CSS.</h3>
 - 💬 Ask me about **DSA,CSS,HTML,JS,MySQL**
 
  <p align="left">
-	<a href="https://linkedin.com/in/vishal-girhepunje-688195196">
+	<a href="https://linkedin.com/in/vishal-girhepunje-688195196"target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-        <a href="mailto:girhepunjevishal@gmail.com@gmail.com">
+        <a href="mailto:girhepunjevishal@gmail.com@gmail.com"target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
