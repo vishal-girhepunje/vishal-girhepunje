@@ -1,31 +1,28 @@
-
-
 <h1 align="center">Hi 👋, I'm Vishal Girhepunje</h1>
 <h3 align="center">Experienced SDE Intern skilled in core Java development and proficient in JavaScript, HTML, and CSS. Contributed remotely to user-centric software projects at Nolan Edutech Private Limited, managing products, logging hours, and providing updates. Ready to leverage internship experience for impactful contributions to collaborative software development.</h3>
 
- <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="gif" margin="0 auto" display="block" width="100%" height="400px"  object-fit="contain">
+<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="gif" margin="0 auto" display="block" width="100%" height="400px" object-fit="contain">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-girhepunje&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-girhepunje" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal-girhepunje" alt="vishal-girhepunje" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=vishal-girhepunje" alt="vishal-girhepunje" /></a> </p>
 
 - 🌱 I’m currently learning **Java,SpringBoot,Hibernate**
 
-- 👨‍💻 All of my projects are available at [https://vishal-girhepunje.github.io/](https://vishal-girhepunje.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://vishal-girhepunje.github.io/" target="_blank">https://vishal-girhepunje.github.io/</a>
 
 - 💬 Ask me about **DSA,CSS,HTML,JS,MySQL**
 
- <p align="left">
-	<a href="https://linkedin.com/in/vishal-girhepunje-688195196"target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-        <a href="mailto:girhepunjevishal@gmail.com@gmail.com"target="_blank">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
+<p align="left">
+    <a href="https://linkedin.com/in/vishal-girhepunje-688195196"target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:girhepunjevishal@gmail.com@gmail.com"target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 </p>
 
-<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
+<p width="90%" m="auto" ><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
 <h2 align="left"> 🚀 Languages and Tools :</h2>
 <div align="center">
  
@@ -53,7 +50,7 @@
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <br/>
  </div>
- <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
+ <p width="90%" m="auto" ><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-girhepunje&show_icons=true&locale=en&layout=compact" alt="vishal-girhepunje" /></p>
 
@@ -64,6 +61,7 @@
 <p align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
 <!-- demooooooooooooooooooo-->
 
 
